@@ -12,12 +12,10 @@
 
 // __________________________________________
 // Write your code below.
-
-
-
-
-
-
+var secretNumber=7
+var password="just open the door"
+var allowedIn = false
+var members = ["john","mary","jake","lexie"]
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
