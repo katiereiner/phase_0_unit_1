@@ -45,8 +45,22 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
+var terah = {
+  Terah.name: "Terah",
+  Terah.age: 32,
+  Terah.height: 66,
+  Terah.weight: 125,
+  Terah.hairColor: "brown",
+  Terah.spouse: "Adam"
+   Terah.children: ["Carson", "Carter","Colton"]
+}
+var Adam = {
+  Adam.name: "Adam"
+  Adam.spouse: "Terah"
+var children
+Adam.children: "Terah.Children"
 
-
+}
 
 
 
